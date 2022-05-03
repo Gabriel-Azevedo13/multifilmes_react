@@ -3,8 +3,8 @@ import { Provider } from 'react-redux';
 import { ToastContainer } from 'react-toastify';
 import { store } from './store';
 import { Router } from './routes';
-
 import 'react-toastify/dist/ReactToastify.css';
+
 function App() {
   const theme = createTheme({
     palette: {
