@@ -9,6 +9,7 @@ const Router: FC = () => {
       <Route path="/" element={<ListaFilmes />} />
       <Route path="multifilmes_react" element={<ListaFilmes />} />
       <Route path="movies/add" element={<CadastroFilmes />} />
+      <Route path="multifilmes_react/movies/add" element={<CadastroFilmes />} />
       <Route path="movies/edit/:idConteudo" element={<CadastroFilmes />} />
     </Routes>
   );
