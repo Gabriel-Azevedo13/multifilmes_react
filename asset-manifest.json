@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multifilmes_react/static/css/main.039bf95e.css",
+    "main.js": "/multifilmes_react/static/js/main.aabbcdb2.js",
+    "index.html": "/multifilmes_react/index.html",
+    "main.039bf95e.css.map": "/multifilmes_react/static/css/main.039bf95e.css.map",
+    "main.aabbcdb2.js.map": "/multifilmes_react/static/js/main.aabbcdb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.aabbcdb2.js"
+  ]
+}
